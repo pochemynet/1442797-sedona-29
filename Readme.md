@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алёна Новикова](https://up.htmlacademy.ru/htmlcss/29/user/1442797).
-* Наставник:  [Алёна Сиприкова] (https://htmlacademy.ru/profile/id549115).
+* Наставник:  [Алёна Сиприкова](https://htmlacademy.ru/profile/id549115).
 
 ---
 
